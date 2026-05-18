@@ -1,70 +1,79 @@
-# 🧠 Physics Mind Arena
+<h1 align="center">🧠 Physics Mind Arena 👾</h1>
 
+<p align="center">
+  <code>🎮 Educational / Quiz Game</code> &nbsp;|&nbsp; 
+  <code>📄 MIT License</code> &nbsp;|&nbsp; 
+  <code>📌 Version 1.0.0</code>
+</p>
+
+<p align="center">
+  <b>🛠️ Tech Stack:</b> 
+  <code>🌐 HTML5</code> &nbsp;
+  <code>🎨 CSS3</code> &nbsp;
+  <code>⚡ JavaScript</code>
+</p>
+
+---
+
+## `📚 Description `
 **Physics Mind Arena** is an interactive web-based platform designed to make learning physics engaging, competitive, and fun. It combines educational content with game-based learning to help users improve their understanding of physics concepts.
 
----
+## `🚀 Features`
 
-## 🚀 Features
-
-### 📚 Physics Lectures
-- Provides structured lessons covering key physics topics  
-- Easy-to-understand explanations for students  
-- Ideal for review and self-paced learning  
-
----
+### 🗂️ Physics Card Lectures
+- [x] Structured lessons covering key physics topics  
+- [x] Easy-to-understand explanations for students  
+- [x] Ideal for review and self-paced learning  
 
 ### 🎮 Multiplayer Quiz Game (Multiple Choice)
 Test your knowledge through exciting quiz battles:
-- 🤖 **VS AI** – Practice and challenge yourself  
-- 👥 **Friend vs Friend** – Compete locally with friends  
-- 📶 **WiFi Multiplayer** – Connect and play with others over a network  
-
----
+> [!TIP]
+> **Available Game Modes:**
+> - 🤖 **VS AI** – Practice and challenge yourself  
+> - 👥 **Friend vs Friend** – Compete locally with friends  
+> - 📶 **WiFi Multiplayer** – Connect and play with others over a network  
 
 ### 🏆 Achievements System
-- Unlock achievements based on performance  
-- Track your progress and milestones  
-- Encourages continuous learning and engagement  
-
----
+- [x] Unlock achievements based on performance  
+- [x] Track your progress and milestones  
+- [x] Encourages continuous learning and engagement  
 
 ### 🧾 Flashcards
-- Quick review of important physics concepts  
-- Helps with memorization and recall  
-- Perfect for exam preparation  
-
----
+- [x] Quick review of important physics concepts  
+- [x] Helps with memorization and recall  
+- [x] Perfect for exam preparation  
 
 ### 🌗 Brightness Mode
-- ☀️ **Light Mode** – Clean and bright interface  
-- 🌙 **Dark Mode** – Eye-friendly for low-light environments  
+- [x] ☀️ **Light Mode** – Clean and bright interface  
+- [x] 🌙 **Dark Mode** – Eye-friendly for low-light environments  
 
 ---
 
 ## 🎯 Purpose
-
 Physics Mind Arena aims to:
-- Make physics learning interactive and enjoyable  
-- Enhance retention through gamification  
-- Encourage friendly competition and collaboration  
+* 🎯 **Interactive** – Make physics learning interactive and enjoyable  
+* 🧠 **Retention** – Enhance retention through gamification  
+* 🤝 **Collaboration** – Encourage friendly competition and collaboration  
 
 ---
 
-## 🛠️ Technologies Used
-*(Edit this part based on your actual tech stack)*  
-- HTML, CSS, JavaScript  
-- Web-based networking (for multiplayer)  
-- Local storage / database (for achievements & progress)  
+## 🛠️ Technologies Used  
+
+| Core Web | Networking & Data |
+| :--- | :--- |
+| 🌐 **HTML5** - Structure | 📶 **Web-based networking** - Multiplayer |
+| 🎨 **CSS3** - Styling & Dark Mode | 💾 **Local Storage / Database** - Achievements & progress |
+| ⚡ **JavaScript** - Game Logic | |
 
 ---
 
 ## 📌 Future Improvements
-- Add more physics topics and advanced lessons  
-- Online global leaderboard  
-- Voice-assisted learning features  
-- Mobile responsiveness improvements  
+- [ ] Add more physics topics and advanced lessons  
+- [ ] Online global leaderboard  
+- [ ] Voice-assisted learning features  
+- [ ] Mobile responsiveness improvements  
 
 ---
 
 ## 👨‍💻 Developer
-**Emman Borillo**
+**Emman Borillo** - *Full Stack Developer*
