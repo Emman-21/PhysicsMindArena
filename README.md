@@ -2,8 +2,8 @@
 
 <p align="center">
   <code>🎮 Educational / Quiz Game</code> &nbsp;|&nbsp; 
-  <code>📄 MIT License</code> &nbsp;|&nbsp; 
-  <code>📌 Version 1.0.0</code>
+  <code>📄 Full Stack Web Application</code> &nbsp;|&nbsp; 
+  <code>📌 Final Project in Calculus Based Physics</code>
 </p>
 
 <p align="center">
@@ -11,6 +11,7 @@
   <code>🌐 HTML5</code> &nbsp;
   <code>🎨 CSS3</code> &nbsp;
   <code>⚡ JavaScript</code>
+  <code>👺 ReactJS</code>
 </p>
 
 ---
