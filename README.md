@@ -76,4 +76,4 @@ Physics Mind Arena aims to:
 ---
 
 ## 👨‍💻 Developer
-**Emman Borillo** - *Full Stack Developer*
+**Emman Borillo** - *Student*
